@@ -1,2 +1,2 @@
 # solenara.github.io
-## the official readme for the website
+the official readme for the website
